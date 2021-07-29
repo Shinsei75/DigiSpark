@@ -1,2 +1,2 @@
 # DigiSpark
-DigiSpark
+DigiSpark for home use.
